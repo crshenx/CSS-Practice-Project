@@ -4,7 +4,7 @@ Project is an excersize in solidifying css best practices and mastering grid + f
 
 ## Description
 
-Utilizing only HTML and CSS, create a ecommerce website that sells hosting services
+Utilizing only HTML, CSS and JS, create a ecommerce website that sells hosting services
 
 ## Features
 

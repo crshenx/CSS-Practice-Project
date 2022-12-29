@@ -1,0 +1,6 @@
+$colors: (
+  "main": #521751,
+  "secondary": #fa923f,
+  "tertiary": #ff3f34
+);
+$border-default: 0.05rem solid map-get($colors, "main");
